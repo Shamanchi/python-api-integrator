@@ -1,0 +1,17 @@
+﻿version: '3.8'
+
+services:
+  app:
+    build: .
+    container_name: python-api-integrator
+    environment:
+      - API_BASE_URL=\
+      - API_KEY=\
+      - API_TIMEOUT=\
+      - RETRY_ATTEMPTS=\
+      - RETRY_BACKOFF=\
+      - DATABASE_URL=\
+      - LOG_LEVEL=\
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped

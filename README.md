@@ -85,6 +85,13 @@ GitHub Actions: Ruff, MyPy, Pytest, Docker build
 
 ---
 
+## Контакты
+
+- Telegram: [@PavelYrevichh](https://t.me/PavelYrevichh)
+- Email: [Lietman46@mail.ru](mailto:Lietman46@mail.ru)
+- GitHub: [Shamanchi](https://github.com/Shamanchi)
+- FL.ru: [Shamanchi](https://www.fl.ru/users/Shamanchi)
+
 ## Лицензия
 Лицензия Shamanchi 1.0 (source-available) — см. [LICENSE](LICENSE).
 ---
